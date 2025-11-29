@@ -1,4 +1,4 @@
-# Android device tree for Redmi 25053RT47C (onyx)
+# Android device tree for Poco F7/ Redmi turbo 4 pro (onyx)
 
 ```
 #
